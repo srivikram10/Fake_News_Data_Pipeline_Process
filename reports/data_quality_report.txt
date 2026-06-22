@@ -1,0 +1,13 @@
+===== DATA VALIDATION REPORT =====
+
+Total Records: 44898
+Duplicate Records: 209
+Empty Text Records: 631
+
+Missing Values:
+title      0
+text       0
+subject    0
+date       0
+label      0
+dtype: int64
